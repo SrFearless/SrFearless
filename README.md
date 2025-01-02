@@ -35,7 +35,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SrFearless&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrFearless&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&custom_title=Linguagens%20mais%20Usadas" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrFearless&area=false&hide_border=true&hide_title=true&theme=gotham" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrFearless&area=false&hide_border=true&hide_title=true&theme=gotham" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
