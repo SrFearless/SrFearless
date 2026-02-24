@@ -32,7 +32,6 @@
 
 <h2 align="left">Status Recentes</h2>
 
-###
 
 <div align="left">
 <img
