@@ -30,17 +30,6 @@
 
 ###
 
-<h2 align="left">Status Recentes</h2>
-
-
-<div align="left">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelnovaes&show_icons=true&locale=en&layout=compact"
-  alt="samuelnovaes"
-/>
-
-</div>
-
 ###
 
 <h2 align="center">Redes Sociais</h2>
